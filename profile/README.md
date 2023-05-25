@@ -5,7 +5,7 @@ The goal is to document all aspects of the company, with a primary focus on its 
 ### 🌟 Project Repositories
 - 📒 [Handbooks](https://github.com/neo-tech-goods/handbook) stores the onboarding scripts of the technical teams
 - 🥾 [Bootstrap](https://github.com/neo-tech-goods/bootstrap) is a set of files and configurations used to create the initial infrastructure of the company New Tech Goods
-- 🐙 [Cthulhu](https://github.com/neo-tech-goods/cthulhu) is the Neo Tech Goods Monorepo. This is a reference to Digital Ocean Monorepo
+- 🐙 [Cthulhu](https://github.com/neo-tech-goods/cthulhu) is the Neo Tech Goods Monorepo. This is a reference to [Digital Ocean Monorepo](https://www.digitalocean.com/blog/cthulhu-organizing-go-code-in-a-scalable-repo)
 
 ### 🌟 Expectations
 All source code will be made available in a public repository so that other people can study and use it as a reference for their own infrastructure projects. The entire development process will be documented in detail, from the conception of the idea to the final implementation and testing.
